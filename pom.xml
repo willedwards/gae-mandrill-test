@@ -27,8 +27,8 @@
     <dependencies>
         <dependency>
             <groupId>com.mandrillapp.wrapper.lutung</groupId>
-            <artifactId>gae-lutung</artifactId>
-            <version>0.2.1</version>
+            <artifactId>lutung</artifactId>
+            <version>0.1.0-DAVIDWEBB</version>
         </dependency>
         <dependency>
                 <groupId>commons-logging</groupId>

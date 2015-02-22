@@ -47,7 +47,7 @@ public class TestController {
 			for (int i = 0; i < status.length; i++)
 			{
 				sb.append("EMAIL = " + status[i].getEmail());
-				sb.append("\nID = " + status[i].getId());
+				sb.append("\nID = " + status[i].get_id());
 				sb.append("\nREJECT REASON= " + status[i].getRejectReason());
 				sb.append("\nSTATUS = " + status[i].getStatus());
 			}
